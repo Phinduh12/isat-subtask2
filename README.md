@@ -1,4 +1,5 @@
 # isat-subtask2
+
 ## Explanation of the Functions and Menu System
 
 This program is a number converter that allows the user to convert numbers between decimal, binary, and hexadecimal formats. It uses four functions to keep the program organised and easy to understand.
@@ -11,14 +12,14 @@ The `decimalToHexadecimal` function converts a decimal number to hexadecimal. It
 
 The `hexadecimalToDecimal` function converts hexadecimal input to decimal. It accepts digits from 0 to 9 and letters from A to F. Lowercase letters are also accepted because the program converts them to uppercase before calculating the answer.
 
-The menu system displays six options. The user can choose a conversion option, run a demo, or exit the program. The menu repeats after each option, allowing the user to perform more conversions without restarting the program. The program only closes when option 6 is selected.
+The menu system displays six options. The user can choose a conversion option, run a demo, or exit the program. The menu repeats after each option, allowing the user to perform more conversions without restarting the program. The program only closes when option 6 is selected. 
 
 ## Examples
 
 Example 1: Decimal to Binary
 
 - Input: `25`
-- Output: `11001`
+- Output: `11001` 
 
 Example 2: Binary to Decimal
 
